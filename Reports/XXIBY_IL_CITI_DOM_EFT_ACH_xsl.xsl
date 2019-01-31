@@ -2,7 +2,7 @@
 <!-- +======================================================================+ -->
 <!-- |    Copyright (c) 2005, 2013 Oracle and/or its affiliates.           | -->
 <!-- |                         All rights reserved.                         | -->
-<!-- |                           Version 12.0.0                             | -->
+#<!-- |                           Version 12.0.0                             | -->
 <!-- +======================================================================+ -->
 <!--  $Header: IBY_ISO_CT_CORE_V3_USTD.xsl 120.0.12010000.3 2013/11/07 17:02:15 sgogula noship $   --> 
 <!--  dbdrv: exec java oracle/apps/xdo/oa/util XDOLoader.class java &phase=dat checkfile:~PROD:patch/115/publisher/templates:IBY_ISO_CT_CORE_V3_USTD.xsl UPLOAD -DB_USERNAME &un_apps -DB_PASSWORD &pw_apps -JDBC_CONNECTION &jdbc_db_addr -LOB_TYPE TEMPLATE -APPS_SHORT_NAME IBY -LOB_CODE IBY_ISO_CT_001.001.03_USTRD -LANGUAGE en -XDO_FILE_TYPE XSL-XML -FILE_NAME &fullpath:~PROD:patch/115/publisher/templates:IBY_ISO_CT_CORE_V3_USTD.xsl -->
